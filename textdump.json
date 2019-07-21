@@ -1,0 +1,509 @@
+000cf5a4: PDC entry for CMAC wake-up: %d
+000cfa5c: 0123456789ABCDEFTerminal
+000d8290: Can I help you?
+000d8374: To use Mi AI Speaker, connect it to your phone.
+000d85d0: Couldn't complete action, try again.
+000d8627: Telefonun internete bağlı değil.
+000d8689: Bağlantı zaman aşımına uğradı.Tekrar deneyelim mi?
+000d86b0: Yarın
+000d86b9: Bugün
+000d86bf: Hatırlatıcı:
+000d86c9: Alarm:
+000d8709: Pzt
+000d870d: Sal
+000d8711: Çar
+000d8715: Per
+000d8719: Cum
+000d871d: Cmt
+000d8721: Paz
+000d8b00: Hava kalitesi
+000d8b0c: Hava indeksi
+000d8b16: Hava durumu bilgisinin almak için Mi Fit Uygulamasına bağlanın.
+000d8b3f: Mi Fit üzerinden şehir ekleyin.
+000d8bca: CITY_NAME_KOREA
+000d8d30: Hava Durumu
+000d8dc0: sport_detail_storage_freespace_check
+000d8ebc: dis_handle_sport_config
+000d8ed4: push_sport_start_event
+000d8eeb: push_sport_remind
+000d8efd: push_sport_event_to_display
+000d9169: Distance is too short to be recorded
+000d94b1: Aktivite sonlandı.
+000d976b: [%u] Sport ENV State | gps_state = %d
+000d9960: Kapalı
+000d998e: 10 dakika sonra hatırlat.
+000d9add: notification_delete_all
+000d9bfd: Etkinlik Hatırlatıcı
+000d9e5e: Temizlendi
+000d9e73: Hepsini temizle
+000d9e94: Bildirim yok
+000d9ed8: Bildirimler
+000da24c: address
+000da261: Firmware version
+000da303: XXXXX
+000da35c: Yeniden Başlat?
+000da3dc: Ekranı açın ve kilidi açmak için yukarı kaydırın
+000da5a4: Telefon ile bağlantı kurulamadı
+000da644: Telefon bağlantısı kesildi
+000da674: Alarm açık
+000da69a: Alarm kapalı
+000da7f6: Bu kart kullanılamadı, tekrar denemek için ekrana dokunun.
+000da855: Bandı okuyucuya daha yakın tutun
+000da8b4: Bu kart bloke oldu, müşteri hizmetlerimizle iletişime geçin.
+000da99c: Sistem meşgul, daha sonra tekrar deneyin
+000da9ed: Mi Fit üzerinden kart ekleyin
+000daab6: Insufficient funds
+000dab1d: Balance is less than 10 CNY, top up now
+000dab5c: Balance (CNY)
+000dab91: NULL
+000dad83: To use this feature,pair the Bluetooth on Mi Fit first
+000dae06: Can't get the song name
+000dae3e: No music is playing
+000daf36: Alarming
+000dafe5: Set alarms on Mi Fit
+000db082: Legal workday
+000db097: Every day
+000db28c: camera_page_create_frame
+000db36c: Open camera
+000db3e4: DND is off
+000db41b: Smart DND is on
+000db4e4: Auto turn on DND after you fell asleep
+000db525: Turn off DND
+000db54c: Auto turn on
+000db573: Turn on
+000db626: Couldn't add
+000db64d: Added successfully
+000db6e0: Open Alipay on your phone to check the service agreement on "Smart Bracelet" page
+000db79a: After you add Alipay,you can pay by showing the payment code on band
+000db813: Scan code with Alipay to add
+000db890: Just a sec...
+000dbad1: [%u] error alipay_page_display ret:%d  second_item:%d
+000dbb4e: Scan code to pay
+000dbbd4: After you remove Alipay, you won't be able to pay by band
+000dbc1c: alipay_start_binding
+000dbc31: alipay_end_binding
+000dbd2f: More
+000dbec4: Alarm
+000dbed1: Camera
+000dbed8: Music
+000dbeec: Stopwatch
+000dbf0a: Timer
+000dbf27: Find Device
+000dbf4d: Silent
+000dbf5b: Cards
+000dbf75: Alipay
+000dbf8a: Band display
+000dbf9e: Settings
+000dbfd8: Mi Home
+000dc148: find_char_addr
+000dd816: )TUE
+000dd81b: WED
+000dd81f: THU
+000dd823: FRI
+000dd827: SAT
+000dd82b: SUN
+000dd950: ui_handle_update_timer
+000dd967: init_activity_page_data
+000dd9ff: update timer
+000dda0c: long key
+000dda15: animal timer
+000dda22: close timer
+000dda2e: motion timer
+000dda3b: press timer
+000ec220: Pair the phone
+000ec22f: Paired successfully
+000ec2c6: Pair first
+000ec30c: Fully charged
+000ec336: 2 in %s
+000ec33e: 3 in %s
+000ec346: HM_WrapGetNumLines
+000ec359: HM_DispStringInRectWrap
+000ec371: GUI_DispStringInRectWrap3
+000ec3de: Regulatory
+000ec474: Reset the password in band lock settings or conduct factory reset on MiFit
+000ec4bf: After the factory reset, you must add again to use it
+000ec4f5: Try again
+000ec700: upgrade
+000ec70c: upgrade successful
+000ec723: upgrade failed
+000ec9b4: Connect to Mi Fit to update again
+000eca53: Updating...
+000ecab6: Updated successfully
+000ecacb: Couldn't update
+000ecadb: Syncing...
+000ecae6: Synced successfully
+000ecafa: Couldn't sync
+000ee992: get notif error
+000ee9a2: dis in selftest
+000ee9b2: get touch in
+000ee9bf: get touch out
+000ee9cd: get key in
+000ee9d8: get key out
+000ee9e4: get wear in
+000ee9f0: get wear out
+000eeb87: Enable
+000eeb8e: Disable
+000eeb96: SENSOR
+000eebb8: ALG
+000eebbc: BASE
+000eebef: SLEEP
+000eeca2: Sleep
+000eeca8: V1.1
+000eecad: wear_enable
+000eecb9: Wear
+000eecbe: V1.0
+000eee13: AFusion
+000eee1b: gesture_enable
+000eee2a: wrist
+000eee5b: GPS
+000eeee0: hr_enable
+000eeeea: hr_disable
+000eeef5: alg_heartrate_init
+000eef39: v1.2.5
+000eef52: hr_process
+000eef73: HeartRate
+000eef7d: V1.2
+000ef360: Pedometer
+000ef552: 201903011126
+000ef596: Sport2
+000ef5be: sedentary_enable
+000ef5da: 9Xv
+000ef61f: ALGO
+000ef64a: Statistics
+000ef655: Sedentary
+000ef678: Sport
+000ef914: Swim
+000ef919: SWIM
+000ef937: Capacitor_wear
+000ef996: alg_init
+000efa56: hrm_switch_ecg_mode
+000efa6a: hrm_set_interval
+000efa7b: hrm_allday_monitor_enable
+000efa95: exit_peridic_mode
+000efaa7: exit_manual_measure_mode
+000efac0: exit_continuous_measure_mode
+000efadd: hrm_sport_mode
+000efaec: hrm_init
+000efc6c: CH_OK
+000efc72: CH_NOK
+000efc79: SW_FSM
+000efc80: SW_FSM_TIM
+000efc8b: LPSet
+000efc91: VBUS
+000f007e: DIALOG SEMI-BLE
+000f0092: ble_tmr
+000f00c8: bleM
+000f00ce: Cinco
+000f0208: Dialog BLE
+000f0271: ble_gap_adv_intv_set
+000f02d0: ble_platform
+000f02dd: bleA
+000f04e0: AD_IRQ_SNC
+000f04eb: AD_SNC
+000f05f3: IDLE
+000f05f8: TmrQ
+000f05fd: Tmr Svc
+000f0632: check_free_region
+000f0644: store_sport_space_check
+000f065c: store_sport_start
+000f066e: store_sport_end
+000f067e: store_sport_data
+000f068f: get_sport_size
+000f069e: sync_sport_data
+000f06ae: sport_get_num
+000f06bc: sport_get_summary
+000f06ce: sport_get_detail
+000f08d8: detail
+000f08df: summary
+000f0ca5: WEAR
+000f0d4f: update_auto_backlight_status
+000f0d6c: algorithm_callback
+000f0d7f: ALGTASK
+000f0ee1: ALG_TASK
+000f0ffc: sensor_handle_msg
+000f107e: SENSORTASK
+000f10aa: SENSOR_TASK
+000f1122: sensor_timer_reconf
+000f1136: TIMWP
+000f1a74: SEGGER emWin V54809
+000f1e14:     !!!!""""####$$$$%%%%&&&&''''(((())))*****++++,,,,----....////0000111122223333444455556666777788889999::::;;;;<<<<====>>>>???
+000f2296: nfa_hci_api_open_pipe
+000f22ac: nfa_hci_poll_session_id_cb
+000f2337: HCI
+000f2548: Enqueue - Buffer corrupted
+000f2563: Eneueue - buf already linked
+000f2580: Free - Buf Corrupted
+000f2595: Freeing Linked Buf
+000f25a8: Bad Buf QId
+000f25b4: getbuf: Size is zero
+000f25c9: getbuf: Size is too big
+000f25fe: GKI_send_msg
+000f260b: gki_alloc_free_queue: Not enough memory
+000f2693: NFC_TASK
+000f2f8b: phTmlNfc_TmlWriterTask
+000f2fa2: readerTask
+000f2fad: writerTask
+000f3073: RECV
+000f30b6: SEND
+000f30e6: phDal4Nfc_msgsnd
+000f324b: /dev/pn544
+000f3256: client task
+000f33c8: /system/vendor/firmware/
+000f33e1: /system/vendor/firmware/libpn557_fw_pku.so
+000f340c: /system/vendor/firmware/libpn557_fw_platform.so
+000f363c: FW-Download
+000f3664: SE_API
+000f37af: SeApi_WiredTransceive
+000f37c5: sep_enableWired
+000fd8d2: PAY.SZT
+000fd937: YCT.USER
+000fd944: YCT.USERX
+000fd959: PAY.APPY
+000fd99c: nfc_send_transaction_amount
+000fd9b8: nfc_push_hci_to_app
+000fd9cc: nfc_card_table_get
+000fd9df: nfc_card_table_put
+000fd9f2: nfc_card_table_header_get
+000fda0c: nfc_card_table_header_put
+000fda26: nfc_card_aid_store
+000fda39: nfc_card_aid_clear
+000fda4c: nfc_card_aid_lookup
+000fda60: nfc_card_get_default_bus_from_SE
+000fda81: nfc_card_get_access_card_num_from_TBL
+000fdaa7: nfc_card_get_balance_by_AID
+000fdac3: nfc_card_get_sub_name_idx_by_NAME_IDX
+000fdae9: nfc_card_set_sub_name_idx_by_NAME_IDX
+000fdb0f: nfc_card_get_lingnantong_sub_name
+000fdb31: nfc_card_get_city_name_by_AID
+000fdb4f: nfc_card_get_access_name
+000fdb68: nfc_card_store_access_name
+000fdb83: nfc_card_clear_access_name
+000fdb9e: nfc_card_get_mifare_block_num
+000fdbbc: nfc_card_send_mifare_blocks
+000fdbd8: nfc_card_read_mifare
+000fdbed: nfc_card_set_default_card
+000fdc07: nfc_card_get_curr_active_card
+000fdc25: nfc_card_get_dis_card_info
+000fdc40: nfc_card_set_active_card
+000fdc59: nfc_card_get_total_num
+000fdc70: nfc_card_get_curr_active_card_processing
+000fdc99: nfc_card_get_dis_card_info_processing
+000fdcbf: nfc_card_set_active_card_processing
+000fdce3: nfc_card_get_total_num_processing
+000fdd05: nfc_card_dis_cmd_processing
+000fdd21: nfc_card_create_cmd_processing
+000fdd40: nfc_card_delete_cmd_processing
+000fdd5f: nfc_card_app_swap_cmd_processing
+000fdd80: nfc_card_set_ecf_cmd
+000fdd95: nfc_card_ecf_cmd_processing
+000fddb1: nfc_card_set_acs_name_cmd_processing
+000fddd6: nfc_card_app_default_active_processing
+000fddfd: nfc_card_app_default_deactive_processing
+000fde26: nfc_card_app_default_read_processing
+000fde4b: nfc_card_app_default_card_processing
+000fde70: nfc_card_app_frsh_card_tbl_processing
+000fde96: nfc_card_clear_all_cards
+000fdeb0: CQQPAY.SYS31
+000fdf02: Chongqing Transport Card
+000fdf23: SUXIN.MF
+000fdf75: Suzhou Citizen Card
+000fdf96: SZT.WALLET.ENV
+000fdfe8: Shenzhen Tong
+000fe00c: SBWHTK
+000fe05b: Wuhan Tong
+000fe0ce: Beijing Transport Card
+000fe0ef: YCT.USER
+000fe141: Lingnan Tong
+000fe1b4: Tianfu Tong
+000fe1e0: JILIN
+000fe227: Jilin Tong
+000fe248: 2PAY.SYS.DDF01XJ
+000fe29a: Xinjiang
+000fe2c5: GUANGX
+000fe30d: Guangxi T-Union
+000fe331: SBZZHT
+000fe380: Lvcheng Tong
+000fe3f3: Chang'an Card
+000fe466: Hefei City Card
+000fe4d9: Jingjinji Union
+000fe502: !PSUZHOU
+000fe54c: Jiangsu T-Union Suzhou
+000fe5bf: shanghai card beta
+000fe5ea: HAINAN
+000fe632: HAINAN ISLAND CARD
+000fe6a5: Qingdao Card
+000fe718: Harbin card
+000fe78b: Taizhou Card
+000fe7fe: Lingnan Tong
+000feee7: [%u] %s select crs error 
+000fef7b: [%u] %s %d 
+000ff17e: QCRS
+000ff18c: QCRS
+000ff191: [%u] %s
+000ff244: SEAPIMON
+000ff24d: seapi_mon_timeout_processing
+000ff26a: SeApi_WiredEnable_wrapper
+000ff2a9: nfc_apdu_timer_cb
+000ff2bb: ActivationStatusCallback
+000ff2d4: app_nfc_state_irq
+000ff2e6: nfc_power_on
+000ff2f3: nfc_set_power_by_SE
+000ff307: prvNfcTask
+000ff4d0: NFC APDU
+000ff519: _ztw523_intf_write
+000ff52c: ts_read_data
+0010d202: unknown error
+0010d210: success
+0010d218: invalid argument
+0010d229: buffer too small
+0010d23a: internal error
+0010d249: corrupted stream
+0010d25a: request not implemented
+0010d272: invalid state
+0010d280: memory allocation failed
+00110ce0: ALG PDM
+00110d34: PDM Encoder
+00110d6d: DMIC
+001118e8: prvAliPayTask
+001118f6: send_ble_to_alipay_task
+0011190e: alipay_task_init
+0011191f: alipay_task_deinit
+00111932: ALIPAY_TASK
+00111a33: #Cinco
+00111a46: get_sto_addr
+00111b44: _iqs620_intf_write
+00111b57: _iqs620_intf_read
+00111b69: iqs620_reg_init
+00111b79: iqs620_nonwear_timer_handle
+00111b95: iqs620_get_key_status
+00111c3b: wearing
+00111c43: nonwear
+00111c5d: key_timer
+00112037: Long Value
+00112097: Long Value
+0011222a: alarm_timer_handle
+0011223d: lazy_alarm_timer_handle
+00112255: lazy_alarm
+00112348: alipay_gattc_set_value
+0011237e: [%u] write %p: len %d
+00112394: [%u] %02x 
+001123f2: do_pieces_data_new_alert_write
+00112411: do_miui_new_alert_write
+0011254e: nfc_card_app_frsh_card_tbl_recv_data
+00112573: do_apdu_write
+00112581: apdu_send
+0011258b: apdu_clear_card
+001126bb: auth_send_ciphertext_handle
+001126d7: auth2_verify_signature
+00112d47: -dfu
+00112d87: set_nfc_card_aid
+00112d98: ecf_set_access_card_name
+00112db1: ecf_set_custom_motor
+00112f26: grsp
+00112f86: ppcp_params_set
+001132ca: set_app_sync
+001132d7: prvAppSyncTask
+001132e6: APP SYNC
+0011331a: SYNC_TASK
+00113324: set_phone_mute_sate
+0011335a: APP_TASK
+00113392: HMDIAL
+001133fc: sys_charger_ext_hook_attach
+00113418: sys_charger_ext_hook_detach
+00113434: sys_charger_ext_hook_hw_fsm_disabled
+00113459: sys_charger_ext_hook_precharging
+0011347a: sys_charger_ext_hook_charging
+00113498: sys_charger_ext_hook_charged
+001134b5: sys_charger_ext_hook_tbat_error
+001134d5: sys_charger_ext_hook_tdie_error
+001134f5: sys_charger_ext_hook_ovp_error
+00113514: sys_charger_ext_hook_total_charge_timeout
+0011353e: sys_charger_ext_hook_cv_charge_timeout
+00113565: sys_charger_ext_hook_cc_charge_timeout
+0011358c: sys_charger_ext_hook_pre_charge_timeout
+001135c8: [Fnfc_selftest_process
+00113683: motor_set_custom
+00113694: motor
+001137cb: app_set_adv_event_data
+001137e2: app_set_adv_mode
+001137f3: app_start_adv
+00113801: app_stop_adv
+0011380e: handle_evt_gap_adv_completed
+001138a2: Cinco
+0011398a: peer_info
+001139ed: notify_speech_audio_record
+00113a08: notify_speech_result
+00113a1d: do_speech_data_write
+00113d6a: sport_show_sport_type_send
+00113d85: sport_show
+00113ec7: notification_added_cb
+00113edd: ancs_request_timeout_handle
+00113ef9: stop_ancs
+00113f03: packet_ancs_notification
+00113f58: not found
+00114040: tmo
+00114044: browse
+0011410a: <unknown>
+001142cb: get_ancs_type
+001142d9: app_handle_ancs
+00114473: [Red Packet]
+00114539: Weather alerts
+001146c7: com.apple.mobilephone
+001146dd: com.apple.MobileSMS
+001146f1: com.tencent.xin
+00114701: com.tencent.mqq
+00114711: com.apple.mobilemail
+00114726: com.xiaomi.miliao
+00114738: com.facebook.Facebook
+0011474e: com.atebits.Tweetie2
+00114763: HM.wristband
+00114770: com.toyopagroup.picaboo
+00114788: net.whatsapp.WhatsApp
+0011479e: com.sina.weibo
+001147ad: com.taobao.taobao4iphone
+001147c6: com.huami.midong
+001147d7: com.burbn.instagram
+001147eb: com.wemomo.momoappdemo1
+00114803: com.taobao.sellerplatform
+0011481d: com.baidu.tieba
+0011482d: com.alipay.iphoneclient
+00114845: com.tencent.
+00114852: com.taobao.fleamarket
+00114868: com.360buy.jdmobile
+0011487c: com.laiwang.DingTalk
+00114891: com.apple.mobilecal
+001148a5: com.facebook.Messenger
+001148bc: com.viber
+001148c6: jp.naver.line
+001148d4: ph.telegra.Telegraph
+001148e9: com.iwilab.KakaoTalk
+001148fe: com.skype.tomskype
+00114911: com.vk.vkclient
+00114921: com.nianticlabs.pokemongo
+0011493b: com.google.hangouts
+0011494f: com.xiaomi.mishop
+00114961: com.tencent.tim
+00114971: com.google.ios.youtube
+00114c08: SysInit
+00114e0c: Profile
+00115e78: ALIPAY_B6T#2#
+00116048: ecdhFactor
+0011611a: {"success":false}
+0011615f: {"success":true}
+00117b23:  POSIX
+00117b2a: INF
+00117b2e: inf
+00117b32: NAN
+00117b36: nan
+00117b3a: 0123456789ABCDEF
+00117b4b: 0123456789abcdef
+00117cb1: Infinity
+00117cba: NaN
+00117e54: acos
+00117e5c: asin
+00117e64: exp
+00117e68: sqrt
+00117e70: log10f
+00117e78: sqrtf
+0011b326: ASCII
+0011b346: ASCII
